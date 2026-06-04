@@ -1,0 +1,14 @@
+Area de un circulo
+
+Algoritmo:
+1. Solicitar al usuario ingresar el radio
+2. Calcular el Area
+3. Mostrar el area
+
+Pseudocodigo:
+
+1. Mostrar mensaje: "Ingrese el radio del circulo"
+2. Leer el dato y asignarlo a una variable radio
+
+3. Definir y asignar a la variable area el resultado de π * r ^ 2
+4. Mostrar mensaje "el área del círculo con radio", radio, "es", area
